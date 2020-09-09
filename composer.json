@@ -1,5 +1,5 @@
 {
-    "name": "uxbert/cwp",
+    "name": "azizuxbert/cwp",
     "description": "Package to manage corporate wellness program",
     "require": {
         "jenssegers/mongodb": "^3.4",
