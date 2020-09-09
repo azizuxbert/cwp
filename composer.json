@@ -1,0 +1,18 @@
+{
+    "name": "azizuxbert/cwp",
+    "description": "Package to manage corporate wellness program",
+    "require": {
+        "jenssegers/mongodb": "^3.4",
+        "jenssegers/date": "^3.1@dev",
+        "mostafamaklad/laravel-permission-mongodb": "^1.8",
+        "propaganistas/laravel-phone": "^4.0",
+        "maatwebsite/excel": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Aziz Trabelsi",
+            "email": "aziz@uxbert.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
