@@ -1,9 +1,10 @@
 {
-    "name": "azizuxbert/cwp",
+    "name": "uxbert/cwp",
     "description": "Package to manage corporate wellness program",
     "require": {
+        "laravel/framework": "5.7.*",
         "jenssegers/mongodb": "^3.4",
-        "jenssegers/date": "^3.1@dev",
+        "jenssegers/date": "^3.4",
         "mostafamaklad/laravel-permission-mongodb": "^1.8",
         "propaganistas/laravel-phone": "^4.0",
         "maatwebsite/excel": "^3.1"
